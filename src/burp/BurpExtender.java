@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 import util.StringValidator;;
 
 /**
- * @author wolha
+ * @author tosebro
  *
  */
 public class BurpExtender implements IBurpExtender, IProxyListener {
