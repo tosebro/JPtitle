@@ -19,7 +19,7 @@ public class BurpExtender implements IBurpExtender, IProxyListener {
 	/**
 	 * Extension name
 	 */
-	private static final String EXTENSION_NAME = "JPTitle";
+	private static final String EXTENSION_NAME = "JPtitle";
 
 	/**
 	 * obtain our output and error streams
